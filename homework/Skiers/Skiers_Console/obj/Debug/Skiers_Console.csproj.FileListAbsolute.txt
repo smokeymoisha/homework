@@ -1,9 +1,0 @@
-C:\Users\Moisha\source\repos\Skiers\Skiers_Console\bin\Debug\Skiers_Console.exe.config
-C:\Users\Moisha\source\repos\Skiers\Skiers_Console\bin\Debug\Skiers_Console.exe
-C:\Users\Moisha\source\repos\Skiers\Skiers_Console\bin\Debug\Skiers_Console.pdb
-C:\Users\Moisha\source\repos\Skiers\Skiers_Console\obj\Debug\Skiers_Console.csprojAssemblyReference.cache
-C:\Users\Moisha\source\repos\Skiers\Skiers_Console\obj\Debug\Skiers_Console.exe
-C:\Users\Moisha\source\repos\Skiers\Skiers_Console\obj\Debug\Skiers_Console.pdb
-C:\Users\Moisha\source\repos\Skiers\Skiers_Console\bin\Debug\Skiers_DLL.dll
-C:\Users\Moisha\source\repos\Skiers\Skiers_Console\bin\Debug\Skiers_DLL.pdb
-C:\Users\Moisha\source\repos\Skiers\Skiers_Console\obj\Debug\Skiers_Console.csproj.CopyComplete

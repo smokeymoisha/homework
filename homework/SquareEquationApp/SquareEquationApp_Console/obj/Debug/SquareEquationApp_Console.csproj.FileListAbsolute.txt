@@ -1,9 +1,0 @@
-C:\Users\Moisha\source\repos\SquareEquationApp\SquareEquationApp_Console\bin\Debug\SquareEquationApp_Console.exe.config
-C:\Users\Moisha\source\repos\SquareEquationApp\SquareEquationApp_Console\bin\Debug\SquareEquationApp_Console.exe
-C:\Users\Moisha\source\repos\SquareEquationApp\SquareEquationApp_Console\bin\Debug\SquareEquationApp_Console.pdb
-C:\Users\Moisha\source\repos\SquareEquationApp\SquareEquationApp_Console\bin\Debug\SquareEquationMath.dll
-C:\Users\Moisha\source\repos\SquareEquationApp\SquareEquationApp_Console\bin\Debug\SquareEquationMath.pdb
-C:\Users\Moisha\source\repos\SquareEquationApp\SquareEquationApp_Console\obj\Debug\SquareEquationApp_Console.csprojAssemblyReference.cache
-C:\Users\Moisha\source\repos\SquareEquationApp\SquareEquationApp_Console\obj\Debug\SquareEquationApp_Console.csproj.CopyComplete
-C:\Users\Moisha\source\repos\SquareEquationApp\SquareEquationApp_Console\obj\Debug\SquareEquationApp_Console.exe
-C:\Users\Moisha\source\repos\SquareEquationApp\SquareEquationApp_Console\obj\Debug\SquareEquationApp_Console.pdb

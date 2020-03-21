@@ -1,9 +1,0 @@
-C:\Users\Moisha\source\repos\SongsAccounting\SongsConsole\bin\Debug\SongsConsole.exe.config
-C:\Users\Moisha\source\repos\SongsAccounting\SongsConsole\bin\Debug\SongsConsole.exe
-C:\Users\Moisha\source\repos\SongsAccounting\SongsConsole\bin\Debug\SongsConsole.pdb
-C:\Users\Moisha\source\repos\SongsAccounting\SongsConsole\bin\Debug\SongsLibrary.dll
-C:\Users\Moisha\source\repos\SongsAccounting\SongsConsole\bin\Debug\SongsLibrary.pdb
-C:\Users\Moisha\source\repos\SongsAccounting\SongsConsole\obj\Debug\SongsConsole.csprojAssemblyReference.cache
-C:\Users\Moisha\source\repos\SongsAccounting\SongsConsole\obj\Debug\SongsConsole.csproj.CopyComplete
-C:\Users\Moisha\source\repos\SongsAccounting\SongsConsole\obj\Debug\SongsConsole.exe
-C:\Users\Moisha\source\repos\SongsAccounting\SongsConsole\obj\Debug\SongsConsole.pdb

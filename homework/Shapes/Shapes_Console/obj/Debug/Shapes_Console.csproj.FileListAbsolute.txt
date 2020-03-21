@@ -1,9 +1,0 @@
-C:\Users\Moisha\source\repos\Shapes\Shapes_Console\obj\Debug\Shapes_Console.csprojAssemblyReference.cache
-C:\Users\Moisha\source\repos\Shapes\Shapes_Console\bin\Debug\Shapes_Console.exe.config
-C:\Users\Moisha\source\repos\Shapes\Shapes_Console\bin\Debug\Shapes_Console.exe
-C:\Users\Moisha\source\repos\Shapes\Shapes_Console\bin\Debug\Shapes_Console.pdb
-C:\Users\Moisha\source\repos\Shapes\Shapes_Console\obj\Debug\Shapes_Console.exe
-C:\Users\Moisha\source\repos\Shapes\Shapes_Console\obj\Debug\Shapes_Console.pdb
-C:\Users\Moisha\source\repos\Shapes\Shapes_Console\bin\Debug\Shapes_Library.dll
-C:\Users\Moisha\source\repos\Shapes\Shapes_Console\bin\Debug\Shapes_Library.pdb
-C:\Users\Moisha\source\repos\Shapes\Shapes_Console\obj\Debug\Shapes_Console.csproj.CopyComplete

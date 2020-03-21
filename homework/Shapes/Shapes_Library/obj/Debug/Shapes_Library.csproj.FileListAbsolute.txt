@@ -1,5 +1,0 @@
-C:\Users\Moisha\source\repos\Shapes\Shapes_Library\bin\Debug\Shapes_Library.dll
-C:\Users\Moisha\source\repos\Shapes\Shapes_Library\bin\Debug\Shapes_Library.pdb
-C:\Users\Moisha\source\repos\Shapes\Shapes_Library\obj\Debug\Shapes_Library.csprojAssemblyReference.cache
-C:\Users\Moisha\source\repos\Shapes\Shapes_Library\obj\Debug\Shapes_Library.dll
-C:\Users\Moisha\source\repos\Shapes\Shapes_Library\obj\Debug\Shapes_Library.pdb

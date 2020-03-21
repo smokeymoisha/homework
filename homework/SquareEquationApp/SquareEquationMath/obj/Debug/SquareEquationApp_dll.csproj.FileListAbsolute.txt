@@ -1,5 +1,0 @@
-C:\Users\Moisha\source\repos\SquareEquationApp\SquareEquationMath\obj\Debug\SquareEquationApp_dll.csprojAssemblyReference.cache
-C:\Users\Moisha\source\repos\SquareEquationApp\SquareEquationMath\bin\Debug\SquareEquationMath.dll
-C:\Users\Moisha\source\repos\SquareEquationApp\SquareEquationMath\bin\Debug\SquareEquationMath.pdb
-C:\Users\Moisha\source\repos\SquareEquationApp\SquareEquationMath\obj\Debug\SquareEquationMath.dll
-C:\Users\Moisha\source\repos\SquareEquationApp\SquareEquationMath\obj\Debug\SquareEquationMath.pdb

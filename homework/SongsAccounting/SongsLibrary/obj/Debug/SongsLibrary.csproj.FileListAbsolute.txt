@@ -1,5 +1,0 @@
-C:\Users\Moisha\source\repos\SongsAccounting\SongsLibrary\bin\Debug\SongsLibrary.dll
-C:\Users\Moisha\source\repos\SongsAccounting\SongsLibrary\bin\Debug\SongsLibrary.pdb
-C:\Users\Moisha\source\repos\SongsAccounting\SongsLibrary\obj\Debug\SongsLibrary.csprojAssemblyReference.cache
-C:\Users\Moisha\source\repos\SongsAccounting\SongsLibrary\obj\Debug\SongsLibrary.dll
-C:\Users\Moisha\source\repos\SongsAccounting\SongsLibrary\obj\Debug\SongsLibrary.pdb
