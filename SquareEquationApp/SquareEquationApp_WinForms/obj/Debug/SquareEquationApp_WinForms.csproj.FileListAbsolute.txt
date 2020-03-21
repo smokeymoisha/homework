@@ -1,0 +1,12 @@
+C:\Users\Moisha\source\repos\SquareEquationApp\SquareEquationApp_WinForms\bin\Debug\SquareEquationApp_WinForms.exe.config
+C:\Users\Moisha\source\repos\SquareEquationApp\SquareEquationApp_WinForms\bin\Debug\SquareEquationApp_WinForms.exe
+C:\Users\Moisha\source\repos\SquareEquationApp\SquareEquationApp_WinForms\bin\Debug\SquareEquationApp_WinForms.pdb
+C:\Users\Moisha\source\repos\SquareEquationApp\SquareEquationApp_WinForms\bin\Debug\SquareEquationMath.dll
+C:\Users\Moisha\source\repos\SquareEquationApp\SquareEquationApp_WinForms\bin\Debug\SquareEquationMath.pdb
+C:\Users\Moisha\source\repos\SquareEquationApp\SquareEquationApp_WinForms\obj\Debug\SquareEquationApp_WinForms.csprojAssemblyReference.cache
+C:\Users\Moisha\source\repos\SquareEquationApp\SquareEquationApp_WinForms\obj\Debug\SquareEquationApp_WinForms.Form1.resources
+C:\Users\Moisha\source\repos\SquareEquationApp\SquareEquationApp_WinForms\obj\Debug\SquareEquationApp_WinForms.Properties.Resources.resources
+C:\Users\Moisha\source\repos\SquareEquationApp\SquareEquationApp_WinForms\obj\Debug\SquareEquationApp_WinForms.csproj.GenerateResource.cache
+C:\Users\Moisha\source\repos\SquareEquationApp\SquareEquationApp_WinForms\obj\Debug\SquareEquationApp_WinForms.csproj.CopyComplete
+C:\Users\Moisha\source\repos\SquareEquationApp\SquareEquationApp_WinForms\obj\Debug\SquareEquationApp_WinForms.exe
+C:\Users\Moisha\source\repos\SquareEquationApp\SquareEquationApp_WinForms\obj\Debug\SquareEquationApp_WinForms.pdb

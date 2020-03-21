@@ -1,0 +1,5 @@
+C:\Users\Moisha\source\repos\SquareArray\SquareArray_Library\bin\Debug\SquareArray_Library.dll
+C:\Users\Moisha\source\repos\SquareArray\SquareArray_Library\bin\Debug\SquareArray_Library.pdb
+C:\Users\Moisha\source\repos\SquareArray\SquareArray_Library\obj\Debug\SquareArray_Library.dll
+C:\Users\Moisha\source\repos\SquareArray\SquareArray_Library\obj\Debug\SquareArray_Library.pdb
+C:\Users\Moisha\source\repos\SquareArray\SquareArray_Library\obj\Debug\SquareArray_Library.csprojAssemblyReference.cache

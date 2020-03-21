@@ -1,0 +1,5 @@
+C:\Users\Moisha\source\repos\FizzBuzz\FizzBuzz_DLL\bin\Debug\FizzBuzz_DLL.dll
+C:\Users\Moisha\source\repos\FizzBuzz\FizzBuzz_DLL\bin\Debug\FizzBuzz_DLL.pdb
+C:\Users\Moisha\source\repos\FizzBuzz\FizzBuzz_DLL\obj\Debug\FizzBuzz_DLL.dll
+C:\Users\Moisha\source\repos\FizzBuzz\FizzBuzz_DLL\obj\Debug\FizzBuzz_DLL.pdb
+C:\Users\Moisha\source\repos\FizzBuzz\FizzBuzz_DLL\obj\Debug\FizzBuzz_DLL.csprojAssemblyReference.cache
