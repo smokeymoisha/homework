@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29609.76
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SongsLibrary", "SongsLibrary\SongsLibrary.csproj", "{2CBB190B-F2BE-4DE6-856F-B1F1B8816A9A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SongsConsole", "SongsConsole\SongsConsole.csproj", "{D9EA1777-DC77-45BA-B31B-328C8B5713F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2CBB190B-F2BE-4DE6-856F-B1F1B8816A9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CBB190B-F2BE-4DE6-856F-B1F1B8816A9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CBB190B-F2BE-4DE6-856F-B1F1B8816A9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CBB190B-F2BE-4DE6-856F-B1F1B8816A9A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9EA1777-DC77-45BA-B31B-328C8B5713F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9EA1777-DC77-45BA-B31B-328C8B5713F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9EA1777-DC77-45BA-B31B-328C8B5713F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9EA1777-DC77-45BA-B31B-328C8B5713F9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {666917D7-41F0-43FE-A654-EAFA2E0EEFA0}
+	EndGlobalSection
+EndGlobal

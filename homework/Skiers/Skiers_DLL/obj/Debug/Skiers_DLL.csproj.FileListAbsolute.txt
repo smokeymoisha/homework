@@ -1,0 +1,5 @@
+C:\Users\Moisha\source\repos\Skiers\Skiers_DLL\bin\Debug\Skiers_DLL.dll
+C:\Users\Moisha\source\repos\Skiers\Skiers_DLL\bin\Debug\Skiers_DLL.pdb
+C:\Users\Moisha\source\repos\Skiers\Skiers_DLL\obj\Debug\Skiers_DLL.csprojAssemblyReference.cache
+C:\Users\Moisha\source\repos\Skiers\Skiers_DLL\obj\Debug\Skiers_DLL.dll
+C:\Users\Moisha\source\repos\Skiers\Skiers_DLL\obj\Debug\Skiers_DLL.pdb

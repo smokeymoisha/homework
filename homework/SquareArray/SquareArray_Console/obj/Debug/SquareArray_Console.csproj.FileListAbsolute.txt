@@ -1,0 +1,9 @@
+C:\Users\Moisha\source\repos\SquareArray\SquareArray_Console\bin\Debug\SquareArray_Console.exe.config
+C:\Users\Moisha\source\repos\SquareArray\SquareArray_Console\bin\Debug\SquareArray_Console.exe
+C:\Users\Moisha\source\repos\SquareArray\SquareArray_Console\bin\Debug\SquareArray_Console.pdb
+C:\Users\Moisha\source\repos\SquareArray\SquareArray_Console\bin\Debug\SquareArray_Library.dll
+C:\Users\Moisha\source\repos\SquareArray\SquareArray_Console\bin\Debug\SquareArray_Library.pdb
+C:\Users\Moisha\source\repos\SquareArray\SquareArray_Console\obj\Debug\SquareArray_Console.csprojAssemblyReference.cache
+C:\Users\Moisha\source\repos\SquareArray\SquareArray_Console\obj\Debug\SquareArray_Console.csproj.CopyComplete
+C:\Users\Moisha\source\repos\SquareArray\SquareArray_Console\obj\Debug\SquareArray_Console.exe
+C:\Users\Moisha\source\repos\SquareArray\SquareArray_Console\obj\Debug\SquareArray_Console.pdb

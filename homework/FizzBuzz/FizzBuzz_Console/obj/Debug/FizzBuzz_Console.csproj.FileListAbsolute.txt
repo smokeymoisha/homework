@@ -1,0 +1,10 @@
+C:\Users\Moisha\source\repos\FizzBuzz\FizzBuzz_Console\bin\Debug\FizzBuzz_Console.exe.config
+C:\Users\Moisha\source\repos\FizzBuzz\FizzBuzz_Console\bin\Debug\FizzBuzz_Console.exe
+C:\Users\Moisha\source\repos\FizzBuzz\FizzBuzz_Console\bin\Debug\FizzBuzz_Console.pdb
+C:\Users\Moisha\source\repos\FizzBuzz\FizzBuzz_Console\obj\Debug\FizzBuzz_Console.csprojAssemblyReference.cache
+C:\Users\Moisha\source\repos\FizzBuzz\FizzBuzz_Console\obj\Debug\FizzBuzz_Console.exe
+C:\Users\Moisha\source\repos\FizzBuzz\FizzBuzz_Console\obj\Debug\FizzBuzz_Console.pdb
+C:\Users\Moisha\source\repos\FizzBuzz\FizzBuzz_Console\bin\Debug\FizzBuzz_DLL.dll
+C:\Users\Moisha\source\repos\FizzBuzz\FizzBuzz_Console\bin\Debug\FizzBuzz_DLL.pdb
+C:\Users\Moisha\source\repos\FizzBuzz\FizzBuzz_Console\obj\Debug\FizzBuzz_Console.csproj.CopyComplete
+C:\Users\Moisha\source\repos\FizzBuzz\FizzBuzz_Console\bin\Debug\CheckNumber.dll
